@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+
+a:hover {
+  color: green;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+.bear-block {
+display: inline-block;
+}
